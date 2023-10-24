@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Amasikk/Amasikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="220"/>
+</div>
+<div id="header" align="center">
+👋 HELLO 👋
+ </div>
+ <div id="header" align="center">
+<div id="badges">
+ <a href="https://twitter.com/amasiks1983">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <img src="https://media.giphy.com/media/YL4eHURj4JyE15UdwA/giphy.gif" width="600" height="400"/>
+</div>
+:man_technologist: About Me : I'm good person😸
